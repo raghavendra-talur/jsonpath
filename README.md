@@ -1,1 +1,1 @@
-# jsonpath
+# jsonpath-checker
